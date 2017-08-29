@@ -1,4 +1,3 @@
-# ftc
 ESTECP006 - Fundamentos Teóricos da Computação
 
 # Universidade do Estado do Amazonas
